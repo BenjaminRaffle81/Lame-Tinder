@@ -1,0 +1,24 @@
+{
+  "name": "Lame-Tinder",
+  "version": "1.0.0",
+  "description": "Lame-Tinder HDub",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminRaffle81/Lame-Tinder"
+  },
+  "author": "Benjamin Evelyn Robert Raffle, IV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminRaffle81/Lame-Tinder/ignore"
+  },
+  "homepage": "https://github.com/BenjaminRaffle81/Lame-Tinder/readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
